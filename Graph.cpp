@@ -100,7 +100,7 @@ namespace graph {
             curr = curr->next;
         }
 
-        throw std::invalid_argument("Edge not found!");
+        throw std::invalid_argument("Edge not found");
     }
 
     Neighbor* Graph::getNeighbors(int v) const {
