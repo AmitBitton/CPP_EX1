@@ -12,7 +12,7 @@ TEST_EXE = test
 
 # Executable for main
 MAIN_SRC = main.cpp
-MAIN_EXE = main
+MAIN_EXE = Main
 
 
 all: $(TEST_EXE)

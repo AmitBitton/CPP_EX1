@@ -107,7 +107,7 @@ Demo of algorithm usage
 ```
 make Main
 
-./main
+./Main
 ```
 ---
 ### Run the Unit Tests
